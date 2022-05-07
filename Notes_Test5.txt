@@ -1,0 +1,15 @@
+What's empty cell? 
+Assumption > Values will be 0 in the beginning, 0 will be shown as empty box
+
+What do we consider consecutive fibonacci number? 
+2 3 5 vs 5 3 2, are those both consecutive?
+Assumption > Only 2 3 5 considered consecutive (increasing order)
+
+Do we consider top to bottom numbers? in what order
+Yes > 2 3 5 (vertical) considered consecutive (assuming it's a game logic)
+2
+3
+5
+
+When cell clicked 1st time does cells in same row/col set to 1 as well?
+Assumption > No
